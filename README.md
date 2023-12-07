@@ -2,7 +2,7 @@
 
 Previsão de vendas para uma empresa de medicamentos da Europa
 
-![Rossmann](img/rossmann.JPG)
+![Rossmann](img/rossmann.jpg)
 
 ## 1.	Problema de negócio
 Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes das lojas Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. As vendas nas lojas são influenciadas por muitos fatores, incluindo promoções, concorrência, feriados escolares e estaduais, sazonalidade e localidade. Com milhares de gestores individuais prevendo vendas com base em circunstâncias específicas, a precisão dos resultados pode ser bastante variada.
