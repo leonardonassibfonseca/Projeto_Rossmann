@@ -38,8 +38,10 @@ Passo 10 - Modelo em produção: Nesta etapa final, o melhor modelo treinado é 
 ## 5.	Top 3 insights
 Hipótese 1: Lojas com maior sortimento (variedades) deveriam vender mais?
 Falsa: Lojas com maior sortimento (variedades) NÃO vendem mais.
+
 Hipótese 2: Lojas deveriam vender mais ao longo dos anos?
 Falsa: Lojas NÃO vendem mais ao longo dos anos.
+
 Hipótese 3: Lojas abertas durante o feriado de natal deveriam vender mais?
 Falsa: Lojas abertas durante o feriado de natal vendem menos em relação a outros tipos de feriados.
 
